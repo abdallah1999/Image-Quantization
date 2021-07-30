@@ -1,0 +1,198 @@
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\bin\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\bin\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+D:\First Term for Thrid\Algo\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+D:\First Term for Thrid\Algo\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+D:\First Term for Thrid\Algo\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+D:\First Term for Thrid\Algo\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+D:\First Term for Thrid\Algo\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+D:\First Term for Thrid\Algo\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+D:\First Term for Thrid\Algo\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+D:\First Term for Thrid\Algo\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\abdal\OneDrive\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\abdal\OneDrive\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\abdal\OneDrive\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojAssemblyReference.cache
+C:\Users\abdal\OneDrive\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\abdal\OneDrive\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\abdal\OneDrive\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.cache
+C:\Users\abdal\OneDrive\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.CoreCompileInputs.cache
+C:\Users\abdal\OneDrive\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\abdal\OneDrive\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Omnia\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Omnia\Desktop\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Taher\Desktop\omnia\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\omnia\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\omnia\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\omnia\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\omnia\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Taher\Desktop\omnia\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Taher\Desktop\omnia\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Taher\Desktop\omnia\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Omnia\Desktop\Last version\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\Last version\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\Last version\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\Last version\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\Last version\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\Last version\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Omnia\Desktop\Last version\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Omnia\Desktop\Last version\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Omnia\Documents\Last version ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Omnia\Documents\Last version ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\omnia\New folder\Last version ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\omnia\New folder\Last version ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\Last version lll(menoim)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\Last version lll(menoim)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\Last version lll(menoim)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\Last version lll(menoim)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\Last version lll(menoim)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\Last version lll(menoim)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Omnia\Desktop\Last version lll(menoim)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Omnia\Desktop\Last version lll(menoim)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Taher\Desktop\omnia\Last version\Last version lll(menoim)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\New folder\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\New folder\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\New folder\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\New folder\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\New folder\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Omnia\Desktop\New folder\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Omnia\Desktop\New folder\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Omnia\Desktop\New folder\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\omnia\Omnia\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\omnia\Omnia\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\omnia\Omnia\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\omnia\Omnia\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\omnia\Omnia\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Taher\Desktop\omnia\Omnia\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Taher\Desktop\omnia\Omnia\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Taher\Desktop\omnia\Omnia\LastVersion(Taher)\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Omnia\Desktop\3m Taherrrrrrrrrr\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\3m Taherrrrrrrrrr\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\3m Taherrrrrrrrrr\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\3m Taherrrrrrrrrr\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\3m Taherrrrrrrrrr\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\3m Taherrrrrrrrrr\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Omnia\Desktop\3m Taherrrrrrrrrr\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Omnia\Desktop\3m Taherrrrrrrrrr\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Taher\Desktop\final\LastOneIIII\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Taher\Desktop\final\LastOneIIII\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Taher\Desktop\final\LastOneIIII\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Taher\Desktop\final\LastOneIIII\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Taher\Desktop\final\LastOneIIII\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\final\LastOneIIII\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\final\LastOneIIII\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\final\LastOneIIII\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\final\finishversion\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\final\finishversion\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\final\finishversion\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\final\finishversion\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\final\finishversion\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Taher\Desktop\final\finishversion\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Taher\Desktop\final\finishversion\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Taher\Desktop\final\finishversion\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Taher\Desktop\final\finishversion ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\final\finishversion ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\final\finishversion ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Taher\Desktop\final\finishversion ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Taher\Desktop\final\finishversion ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Taher\Desktop\final\finishversion ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Taher\Desktop\final\finishversion ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\final\finishversion ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\final\delviry tomorrow\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\final\delviry tomorrow\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\final\delviry tomorrow\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\final\delviry tomorrow\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\final\delviry tomorrow\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Taher\Desktop\final\delviry tomorrow\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Taher\Desktop\final\delviry tomorrow\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Taher\Desktop\final\delviry tomorrow\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Taher\Desktop\final\Minlston 2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\final\Minlston 2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\final\Minlston 2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\final\Minlston 2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\final\Minlston 2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Taher\Desktop\final\Minlston 2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Taher\Desktop\final\Minlston 2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Taher\Desktop\final\Minlston 2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Taher\Desktop\final\Minlston 2 ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Taher\Desktop\final\Minlston 2 ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Taher\Desktop\final\Minlston 2 ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Taher\Desktop\final\Minlston 2 ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\final\Minlston 2 ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\final\Minlston 2 ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\final\Minlston 2 ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\final\Minlston 2 ll\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Omnia\Desktop\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Omnia\Desktop\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Omnia\Desktop\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Omnia\Desktop\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Taher\Desktop\omnia\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\omnia\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\omnia\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\omnia\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\omnia\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Taher\Desktop\omnia\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Taher\Desktop\omnia\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Taher\Desktop\omnia\finish M1\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Taher\Desktop\omnia\firstM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\omnia\firstM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\omnia\firstM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\omnia\firstM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\omnia\firstM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Taher\Desktop\omnia\firstM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Taher\Desktop\omnia\firstM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Taher\Desktop\omnia\firstM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Taher\Desktop\omnia\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\omnia\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\omnia\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Taher\Desktop\omnia\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Taher\Desktop\omnia\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Taher\Desktop\omnia\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Taher\Desktop\omnia\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Taher\Desktop\omnia\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\finalM2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\delivery M2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\delivery M2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\delivery M2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\delivery M2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\delivery M2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\delivery M2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\delivery M2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\delivery M2\[TEMPLATE] ImageQuantization Last verison\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
